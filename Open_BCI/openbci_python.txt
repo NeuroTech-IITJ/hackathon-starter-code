@@ -1,0 +1,1 @@
+use this docs to get started: https://docs.openbci.com/Deprecated/Python/
