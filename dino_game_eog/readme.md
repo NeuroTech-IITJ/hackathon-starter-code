@@ -8,5 +8,5 @@ Follow the steps mentioned in above link, taking care of the following points:
 3. While using VS code, first install all nececessary Python packages as mentioned in 'requirements.txt' file.
 
 
-# CREDITS: Pragya and Nimish
+#### CREDITS: Pragya and Nimish
     
